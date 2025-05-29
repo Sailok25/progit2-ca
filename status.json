@@ -10,7 +10,7 @@
       "sections/first-time-setup.asc": 100,
       "sections/help.asc": 100,
       "sections/history.asc": 100,
-      "sections/installing.asc": 100
+      "sections/installing.asc": 100,
       "sections/what-is-git.asc": 100
     },
     "02-git-basics": {
@@ -87,12 +87,10 @@
       "sections/client-hg.asc": 0,
       "sections/client-p4.asc": 0,
       "sections/client-svn.asc": 0,
-      "sections/client-tfs.asc": 0,
       "sections/import-custom.asc": 0,
       "sections/import-hg.asc": 0,
       "sections/import-p4.asc": 0,
-      "sections/import-svn.asc": 0,
-      "sections/import-tfs.asc": 0
+      "sections/import-svn.asc": 0
     },
     "10-git-internals": {
       "1-git-internals.asc": 100,
@@ -107,16 +105,20 @@
     },
     "A-git-in-other-environments": {
       "1-git-other-environments.asc": 100,
-      "sections/bash.asc": 100,
-      "sections/eclipse.asc": 100,
-      "sections/guis.asc": 100,
-      "sections/powershell.asc": 0,
-      "sections/visualstudio.asc": 100,
-      "sections/zsh.asc": 0
+      "sections/bash.asc": 0,
+      "sections/guis.asc": 0,
+      "sections/jetbrainsides.asc": 0,
+      "sections/powershell": 0,
+      "sections/sublimetext.asc": 0,
+      "sections/visualstudio.asc": 0,
+      "sections/visualstudiocode.asc": 0,
+      "sections/zsh" : 0
     },
     "B-embedding-git": {
-      "1-embedding-git.asc": 100,
+      "1-embedding-git-in-your-applications.asc": 100,
       "sections/command-line.asc": 100,
+      "sections/dulwich.asc": 100,
+      "sections/go-git.asc": 100,
       "sections/jgit.asc": 100,
       "sections/libgit2.asc": 100
     },
